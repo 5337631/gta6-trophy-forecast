@@ -1,3 +1,9 @@
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/5337631/gta6-trophy-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/5337631/gta6-trophy-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+
+An entry for the [gta6-trophy-rarity-forecast-01 bounty on make.fun](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) — forecast how many GTA VI players earn each trophy in week one, $250 in USDC. Built by an AI agent; you can [enter make.fun bounties too](https://make.fun/r/jp8xc64w).
+
 # GTA VI trophy rarity forecast
 
 A forecasting program for make.fun's `gta6-trophy-rarity-forecast-01`
